@@ -2,17 +2,17 @@
 - B.Tech Information and Communitcation Technology. As a Student of ICT Engineering, My Field of Interest is very diverse. I am Familiar with Python, JAVA, C, C++, Kotlin. I Enjoy Coding, majorly have passion towards Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 
 ### Experience!:briefcase:
-  - Technical Content Writer (Internship)
-    - AI Tech Web
-      - May 2020 - July 2020
+  - Core Member (Internship)
+    - Robotics Club Sastra
+      - May 2020 - Present
 
-  - Campus Ambassador (Internship)
-    - Indian Robotics Community
-      - September 2020 - Present
+  - Fellow (Internship)
+    - IncubateIND
+      - August 2020 - Januray 2021
 
 ### Education!
   - Sastra Deemed University:mortar_board::
-    - Bachelor's Degree, Mechatronics Engineering
+    - Bachelor's Degree, ICT Engineering
       - 2019 - 2023
   - Narayana Jr.College :school_satchel::
     - High School 
