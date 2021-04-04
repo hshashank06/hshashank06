@@ -60,7 +60,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/karthikmothiki/
+[linkedin]: https://www.linkedin.com/in/shashank-hara-sridhar-a9761a1a6/
 [medium]: https://t.me/Karthik_Mothiki
 [instagram]: https://www.instagram.com/karthik_mothiki/
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hshashank06)
