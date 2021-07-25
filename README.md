@@ -1,5 +1,5 @@
 ### Hi there, I'm [Shashank Hara Sridhar] aka Shashank👋
-- B.Tech Information and Communitcation Technology. As a Student of ICT Engineering, My Field of Interest is very diverse. I am Familiar with Python, JAVA, C, C++, Kotlin. I Enjoy Coding, majorly have passion towards Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
+- B.Tech Information and Communitcation Technology. As a Student of ICT, I have varied knowledge in the fields of computer science, Information Technology and Communication Systems.I have experience in programming with C, C++,Java, Python and Lua.I love learning new and diverse technologies and have participated in several Technical Competitions.:smile::smile:
 
 ### Experience!:briefcase:
   - Core Member (Internship)
@@ -12,7 +12,7 @@
 
 ### Education!
   - Sastra Deemed University:mortar_board::
-    - Bachelor's Degree, ICT Engineering
+    - Bachelor's Degree, Information and Communication Technology 
       - 2019 - 2023
   - Narayana Jr.College :school_satchel::
     - High School 
@@ -21,18 +21,18 @@
      - 2016 - 2017
 
 ### Licenses & Certifications
-  - Python For Everybody Specialization
-    - Coursera - Aug 2020
-      - [Credential ID GFSU9RBCV5DF](https://www.coursera.org/account/accomplishments/specialization/certificate/GFSU9RBCV5DF)
-  - AWS Technical Essentials and Architecting
-    - Coursera - June 2020
-      - [Credential ID DU2PYK9I](https://drive.google.com/file/d/183oGrley9EHkHigEoo6Tsx6V6_CBJU9Y/view)
-  - AI For Everyone
-    - Coursera - July 2020
-      - [Credential ID FNY5HEHTRGMN](https://www.coursera.org/account/accomplishments/certificate/FNY5HEHTRGMN)
-  - Introduction to Virtual Reality
-    - Coursera - Aug 2020
-      - [Credential ID HB4K9CH2LD3U](https://www.coursera.org/account/accomplishments/certificate/HB4K9CH2LD3U)      
+  - Image Processing with Python
+    - Coursera - Jul 2020
+      - [Credential ID TNAQJRQCSX9T](https://coursera.org/share/01364924101f31dc3ecee8d0cf678554)
+  - Diploma in Python Programming - Revised
+    - Alison - May 2020
+      - [Credential ID 1535-16021987](https://alison.com/certification/check/%242y%2410%248mIwp3oUAYEezNQ97lobuW4hGNEq9LCZmhGwqW.IsIdp6BpIXgVi)
+  - Cloud Computing Basics (Cloud 101)
+    - Coursera - Apr 2020
+      - [Credential ID PTPHPD2KE3PU](https://www.coursera.org/account/accomplishments/certificate/PTPHPD2KE3PU)
+  - Getting Started with AWS Machine Learning
+    - Coursera - Apr 2020
+      - [Credential ID XJXP4F3AHLQD](https://www.coursera.org/account/accomplishments/certificate/XJXP4F3AHLQD)      
 
   
 ### Languages and Tools:
@@ -61,7 +61,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/shashank-hara-sridhar-a9761a1a6/
-[medium]: https://t.me/Karthik_Mothiki
-[instagram]: https://www.instagram.com/karthik_mothiki/
+[medium]: https://hshashank06.medium.com/
+[instagram]: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hshashank06)
 
