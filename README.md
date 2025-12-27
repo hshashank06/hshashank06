@@ -15,7 +15,7 @@ Publications:
 Skin Cancer Classification Using Image Processing with Machine Learning Techniques - Intelligent Data Analytics, IoT, and Blockchain - 1st Edition - Bashir (routledge.com)
 
 
-### Experience!:briefcase:
+### Experience! :briefcase:
 
   - Software Engineer - Wells Fargo
     - Sept 2024 - Present
