@@ -3,9 +3,13 @@
 - Software Engineer - Wells Fargo
 
   • Re-engineered legacy ACH search into a React/TypeScript + Spring Boot micro-frontend (MFE) architecture, now standardized across the enrollment platform.
+
 • Developed a GenAI-based data profiling PoC during a company-wide hackathon—handled the end-to-end solution and secured leadership interest for adoption.
+
 • Built a rule-driven approval workflow for regulated banking products using Red Hat Process Automation (RHPAM), embedding multi-level authorization and policy controls.
+
 • Led the migration and redesign of two enterprise products (Administration & Wires) onto a new enrollment platform using Spring Boot, React (MFE), Kafka, and RHPAM, delivering the solution within 2 months.
+
 • Contributed to the transformation of 88+ microservices from PCF to OpenShift (OCP), resolving transition issues and boosting deployment resilience and scalability.
 
 
