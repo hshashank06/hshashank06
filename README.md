@@ -1,6 +1,7 @@
 ### Hi there, I'm [Shashank Hara Sridhar] aka Shashank👋
 
 - Software Engineer - Wells Fargo
+
   • Re-engineered legacy ACH search into a React/TypeScript + Spring Boot micro-frontend (MFE) architecture, now standardized across the enrollment platform.
 • Developed a GenAI-based data profiling PoC during a company-wide hackathon—handled the end-to-end solution and secured leadership interest for adoption.
 • Built a rule-driven approval workflow for regulated banking products using Red Hat Process Automation (RHPAM), embedding multi-level authorization and policy controls.
