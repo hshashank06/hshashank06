@@ -1,17 +1,37 @@
 ### Hi there, I'm [Shashank Hara Sridhar] aka Shashank👋
-- B.Tech Information and Communitcation Technology. As a Student of ICT, I have varied knowledge in the fields of computer science, Information Technology and Communication Systems.I have experience in programming with C, C++,Java, Python and Lua.I love learning new and diverse technologies and have participated in several Technical Competitions.:smile::smile:
+
+- Software Engineer - Wells Fargo
+  • Re-engineered legacy ACH search into a React/TypeScript + Spring Boot micro-frontend (MFE) architecture, now standardized across the enrollment platform.
+• Developed a GenAI-based data profiling PoC during a company-wide hackathon—handled the end-to-end solution and secured leadership interest for adoption.
+• Built a rule-driven approval workflow for regulated banking products using Red Hat Process Automation (RHPAM), embedding multi-level authorization and policy controls.
+• Led the migration and redesign of two enterprise products (Administration & Wires) onto a new enrollment platform using Spring Boot, React (MFE), Kafka, and RHPAM, delivering the solution within 2 months.
+• Contributed to the transformation of 88+ microservices from PCF to OpenShift (OCP), resolving transition issues and boosting deployment resilience and scalability.
+
+
+- B.Tech Information and Communitcation Technology. Actively participated in club activities and technical discussion. Conducted a workshop on Computer Vision using Python. Was a mentor in a workshop on Robotics. Published a research paper on Skin Cancer detection using Machine Learning and Image Processing.
+
+Publications:
+Skin Cancer Classification Using Image Processing with Machine Learning Techniques - Intelligent Data Analytics, IoT, and Blockchain - 1st Edition - Bashir (routledge.com)
+
 
 ### Experience!:briefcase:
+
+  - Software Engineer - Wells Fargo
+    - Sept 2024 - Present
+   
+  - Program Associate - Wells Fargo
+    - Aug 2023 - Sept 2024
+   
   - Core Member (Internship)
     - Robotics Club Sastra
-      - May 2020 - Present
+      - May 2020 - Jan 2023
 
   - Fellow (Internship)
     - IncubateIND
       - August 2020 - Januray 2021
 
 ### Education!
-  - Sastra Deemed University:mortar_board::
+  - Sastra Deemed University :mortar_board::
     - Bachelor's Degree, Information and Communication Technology 
       - 2019 - 2023
   - Narayana Jr.College :school_satchel::
