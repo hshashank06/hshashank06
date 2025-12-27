@@ -38,7 +38,7 @@ Skin Cancer Classification Using Image Processing with Machine Learning Techniqu
   - Narayana Jr.College :school_satchel::
     - High School 
       - 2017 - 2019
-  - Bhavan's Sri RamaKrishna Vidyalaya:school::
+  - Bhavan's Sri RamaKrishna Vidyalaya :school::
      - 2016 - 2017
 
 ### Licenses & Certifications
